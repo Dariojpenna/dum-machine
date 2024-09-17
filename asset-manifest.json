@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dum-machine/static/css/main.c049589e.css",
+    "main.js": "/dum-machine/static/js/main.d35079b9.js",
+    "static/js/453.a9efd1fc.chunk.js": "/dum-machine/static/js/453.a9efd1fc.chunk.js",
+    "index.html": "/dum-machine/index.html",
+    "main.c049589e.css.map": "/dum-machine/static/css/main.c049589e.css.map",
+    "main.d35079b9.js.map": "/dum-machine/static/js/main.d35079b9.js.map",
+    "453.a9efd1fc.chunk.js.map": "/dum-machine/static/js/453.a9efd1fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c049589e.css",
+    "static/js/main.d35079b9.js"
+  ]
+}
